@@ -1,4 +1,4 @@
-echo "www.guris.kr/game" > CNAME
+echo "www.guris.kr" > CNAME
 git add CNAME
 git commit -m "Add CNAME for custom domain"
 git push origin main
